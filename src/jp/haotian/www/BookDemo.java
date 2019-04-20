@@ -3,15 +3,16 @@
  */
 package jp.haotian.www;
 
-import java.nio.channels.ScatteringByteChannel;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import org.omg.CORBA.StructMember;
+
 
 /**
+ * BookDemo
  * @author deepin
- *
+ * @date 2019/04/20
  */
 public class BookDemo {
 
